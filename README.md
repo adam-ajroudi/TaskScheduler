@@ -12,21 +12,6 @@ TaskScheduler is a task management tool that utilizes the Eisenhower Matrix to p
 - **Dependency Management**: Prioritizes tasks by considering their dependencies.
 - **Daily Schedule Generation**: Provides a complete daily schedule based on prioritized tasks.
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/adam-ajroudi/TaskScheduler.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd TaskScheduler
-   ```
-3. Install necessary dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Prepare your task list in the required format.
